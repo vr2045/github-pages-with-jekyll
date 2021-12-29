@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to the tinyVision.ai blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome! Here are some blogs for your enjoyment...
